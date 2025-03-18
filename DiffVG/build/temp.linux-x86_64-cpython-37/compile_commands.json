@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/root/LIVE-Layerwise-Image-Vectorization/DiffVG/build/temp.linux-x86_64-cpython-37",
+  "command": "/usr/bin/c++ -DCOMPILE_WITH_CUDA -Ddiffvg_EXPORTS -I/root/miniconda3/envs/live/include/python3.7m -I/root/LIVE-Layerwise-Image-Vectorization/DiffVG/pybind11/include -I/usr/local/cuda/include -DVERSION_INFO=\\\"0.0.1\\\" -O3  -fPIC -Wall -g -O3 -fvisibility=hidden -Wno-unknown-pragmas -std=gnu++11 -o CMakeFiles/diffvg.dir/atomic.cpp.o -c /root/LIVE-Layerwise-Image-Vectorization/DiffVG/atomic.cpp",
+  "file": "/root/LIVE-Layerwise-Image-Vectorization/DiffVG/atomic.cpp"
+},
+{
+  "directory": "/root/LIVE-Layerwise-Image-Vectorization/DiffVG/build/temp.linux-x86_64-cpython-37",
+  "command": "/usr/bin/c++ -DCOMPILE_WITH_CUDA -Ddiffvg_EXPORTS -I/root/miniconda3/envs/live/include/python3.7m -I/root/LIVE-Layerwise-Image-Vectorization/DiffVG/pybind11/include -I/usr/local/cuda/include -DVERSION_INFO=\\\"0.0.1\\\" -O3  -fPIC -Wall -g -O3 -fvisibility=hidden -Wno-unknown-pragmas -std=gnu++11 -o CMakeFiles/diffvg.dir/color.cpp.o -c /root/LIVE-Layerwise-Image-Vectorization/DiffVG/color.cpp",
+  "file": "/root/LIVE-Layerwise-Image-Vectorization/DiffVG/color.cpp"
+},
+{
+  "directory": "/root/LIVE-Layerwise-Image-Vectorization/DiffVG/build/temp.linux-x86_64-cpython-37",
+  "command": "/usr/bin/c++ -DCOMPILE_WITH_CUDA -Ddiffvg_EXPORTS -I/root/miniconda3/envs/live/include/python3.7m -I/root/LIVE-Layerwise-Image-Vectorization/DiffVG/pybind11/include -I/usr/local/cuda/include -DVERSION_INFO=\\\"0.0.1\\\" -O3  -fPIC -Wall -g -O3 -fvisibility=hidden -Wno-unknown-pragmas -std=gnu++11 -o CMakeFiles/diffvg.dir/parallel.cpp.o -c /root/LIVE-Layerwise-Image-Vectorization/DiffVG/parallel.cpp",
+  "file": "/root/LIVE-Layerwise-Image-Vectorization/DiffVG/parallel.cpp"
+},
+{
+  "directory": "/root/LIVE-Layerwise-Image-Vectorization/DiffVG/build/temp.linux-x86_64-cpython-37",
+  "command": "/usr/bin/c++ -DCOMPILE_WITH_CUDA -Ddiffvg_EXPORTS -I/root/miniconda3/envs/live/include/python3.7m -I/root/LIVE-Layerwise-Image-Vectorization/DiffVG/pybind11/include -I/usr/local/cuda/include -DVERSION_INFO=\\\"0.0.1\\\" -O3  -fPIC -Wall -g -O3 -fvisibility=hidden -Wno-unknown-pragmas -std=gnu++11 -o CMakeFiles/diffvg.dir/shape.cpp.o -c /root/LIVE-Layerwise-Image-Vectorization/DiffVG/shape.cpp",
+  "file": "/root/LIVE-Layerwise-Image-Vectorization/DiffVG/shape.cpp"
+}
+]

@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+821131bca1293864f997e05bd268226c CMakeFiles/diffvg.dir/diffvg_generated_diffvg.cpp.o
+97e7d05eee0ec4ae0ad9592ec959d1f8 CMakeFiles/diffvg.dir/diffvg_generated_scene.cpp.o
