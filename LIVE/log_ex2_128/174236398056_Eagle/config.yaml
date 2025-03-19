@@ -1,0 +1,45 @@
+config: config/base.yaml
+coord_init:
+  type: sparse
+debug: false
+exid: 174236398056
+experiment: experiment_exp2_128
+experiment_dir: log_ex2_128/174236398056_Eagle
+initial: random
+log_dir: log_ex2_128/
+loss:
+  bis_loss_weight: null
+  use_distance_weighted_loss: true
+  use_l1_loss: false
+  xing_loss_weight: 0.01
+lr_base:
+  bg: 0.01
+  color: 0.01
+  point: 1
+  stroke_color: null
+  stroke_width: null
+num_iter: 500
+num_segments: 4
+path_schedule:
+  base: 2
+  max_path: 128
+  max_path_per_iter: 32
+  type: exp
+save:
+  image: true
+  init: true
+  loss: false
+  output: true
+  video: true
+seed: null
+seginit:
+  radius: 5
+  type: circle
+signature:
+- Eagle
+target: figures/Eagle.png
+trainable:
+  bg: false
+  record: true
+  stroke: false
+use_ycrcb: false
